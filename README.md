@@ -1,13 +1,27 @@
-# Global Passenger Electric Vehicle Market Share Year over Year for Q3 2021 and Q3 2022
+# Global Passenger Electric Vehicle Market Share 
 
-Makeover Monday for the week of February 13, 2023. 
 
-Visualization: https://app.powerbi.com/view?r=eyJrIjoiYzk2YjZlMmEtMGNmZC00ZjUyLTg5ODYtYzMxZWI3YmYzMGZiIiwidCI6ImU0NWI5N2RmLWJkYjAtNDExMC05OTkzLWE5YjRhOGNjY2NhMiJ9
 
-Original Data source:
+# Visualization: 
 
+Click this link: https://app.powerbi.com/view?r=eyJrIjoiYzk2YjZlMmEtMGNmZC00ZjUyLTg5ODYtYzMxZWI3YmYzMGZiIiwidCI6ImU0NWI5N2RmLWJkYjAtNDExMC05OTkzLWE5YjRhOGNjY2NhMiJ9
+
+
+# The Data: 
+
+The data is ffrom Counter Point Research's quarterly data for global electric vehicles sales market share from Q1 2021 to Q4 2022. The dataset was part of Makeover Monday's weekly visualization challenge (Makeover Monday for the week of February 13, 2023). 
+
+# Original Data source:
 Global Passenger Electric Vehicle Market Share, Q1 2021 – Q4 2022
 Link: https://www.counterpointresearch.com/global-electric-vehicle-market-share/
+
+
+# Evaluation: 
+
+Global eletric vehicle market share has been in flux. BYD Auto overtook Tesla to become the number one EV maker in the world -- taking market share from Tesla and other brands. 
+
+
+# About Makeover Monday
 
 Makeover Monday website: https://www.makeovermonday.co.uk/
 
