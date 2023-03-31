@@ -1,5 +1,6 @@
 # Global Passenger Electric Vehicle Market Share 
 
+![image](https://user-images.githubusercontent.com/23224784/229188616-524d9b10-9a12-4754-81be-329a369da189.png)
 
 
 # Visualization: 
