@@ -3,16 +3,15 @@
 ![image](https://user-images.githubusercontent.com/23224784/229188616-524d9b10-9a12-4754-81be-329a369da189.png)
 
 
-# Visualization: 
+# Visualization
 
 Click this link: https://app.powerbi.com/view?r=eyJrIjoiYzk2YjZlMmEtMGNmZC00ZjUyLTg5ODYtYzMxZWI3YmYzMGZiIiwidCI6ImU0NWI5N2RmLWJkYjAtNDExMC05OTkzLWE5YjRhOGNjY2NhMiJ9
 
 
-# The Data: 
+# Data Source
 
-The data is ffrom Counter Point Research's quarterly data for global electric vehicles sales market share from Q1 2021 to Q4 2022. The dataset was part of Makeover Monday's weekly visualization challenge (Makeover Monday for the week of February 13, 2023). 
+The data is from Counter Point Research's quarterly data for global electric vehicles sales market share from Q1 2021 to Q4 2022. The dataset was part of Makeover Monday's weekly visualization challenge (Makeover Monday for the week of February 13, 2023). 
 
-# Original Data source:
 Global Passenger Electric Vehicle Market Share, Q1 2021 – Q4 2022
 Link: https://www.counterpointresearch.com/global-electric-vehicle-market-share/
 
